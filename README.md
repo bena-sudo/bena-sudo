@@ -1,6 +1,9 @@
-[![Website](https://img.shields.io/twitter/follow/jbenavent43?label=SIGUEME%20EN%20TWITER&style=flat-square)](tw)
+### Vias de contacto
+[![Twitter](https://img.shields.io/twitter/follow/jbenavent43?color=blue&label=SIGUEME%20EN%20TWITER&style=for-the-badge)](https://twitter.com/jbenavent43)
 
-[<img src="https://img.icons8.com/doodle/48/000080/instagram-new.png"/>](ig)
+[<img src="https://img.icons8.com/doodle/48/null/twitter-circled.png"/>](https://twitter.com/jbenavent43)
+[<img src="https://img.icons8.com/doodle/48/000080/instagram-new.png"/>](https://www.instagram.com/joan_43/)
+[<img src="https://img.icons8.com/doodle/48/000080/facebook-circled.png"/>](https://www.facebook.com/joan.benavent.5)
 
-[tw]: https://twitter.com/jbenavent43
-[ig]: https://www.instagram.com/joan_43/
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
