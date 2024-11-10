@@ -1,9 +1,17 @@
-### Vias de contacto
-[![Twitter](https://img.shields.io/twitter/follow/jbenavent43?color=blue&label=SIGUEME%20EN%20TWITER&style=for-the-badge)](https://twitter.com/jbenavent43)
+💻 Bienvenido a mi GitHub
+👋 ¡Hola! Soy [Tu Nombre]
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW). Actualmente me encuentro en el proceso de aprendizaje y especialización en tecnologías de desarrollo de software y web, donde aplico conceptos y habilidades adquiridas en clase y en mis propios proyectos.
 
-[<img src="https://img.icons8.com/doodle/48/null/twitter-circled.png"/>](https://twitter.com/jbenavent43)
-[<img src="https://img.icons8.com/doodle/48/000080/instagram-new.png"/>](https://www.instagram.com/joan_43?igsh=MWJzbXkzeHJoejF2NQ==)
-[<img src="https://img.icons8.com/doodle/48/000080/facebook-circled.png"/>](https://www.facebook.com/joan.benavent.5)
+📂 Proyectos
+Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[OnlineStoreProject]: Descripción breve del proyecto. (Tecnologías: HTML, CSS, JavaScript).
+Puedes ver todos mis proyectos en mis repositorios.
+
+🎓 Formación
+Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+
+📫 Conecta conmigo
+Email: tu.email@example.com
+LinkedIn: linkedin.com/in/tu-usuario
