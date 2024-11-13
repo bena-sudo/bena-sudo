@@ -25,7 +25,7 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
-- **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**.
+- **Grado Medio en Sistemas Microinformáticos y Redes (CFSN)**.
 
 ### 📫 Conecta conmigo
 
