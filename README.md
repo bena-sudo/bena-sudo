@@ -18,6 +18,7 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
 1. **[OnlineStoreProject]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, JavaScript)*.
 2. **[bar-odoo]**: Descripción breve del proyecto. *(Tecnologías: Python)*.
+3. **[book]**: Descripción breve del proyecto. *(Tecnologías: Jupyter Notebook)*.
 
 > Puedes ver todos mis proyectos en [mis repositorios](https://github.com/bena-sudo?tab=repositories).
 
