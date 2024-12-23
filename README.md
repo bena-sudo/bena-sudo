@@ -7,7 +7,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarroll
 ### 🌟 Tecnologías y herramientas que utilizo
 
 - **Lenguajes**: Java, Python, JavaScript, SQL, HTML5, CSS3
-- **Frameworks y bibliotecas**: Spring Boot, Node.js, React, Bootstrap, jQuery
+- **Frameworks y bibliotecas**: Spring Boot, Node.js, Bootstrap, Angular
 - **Bases de datos**: MySQL, SQLite, MongoDB
 - **Control de versiones**: Git y GitHub
 - **Entornos de desarrollo**: Visual Studio Code, Eclipse IDE
@@ -16,9 +16,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarroll
 
 Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
-1. **[OnlineStoreProject]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, JavaScript)*.
-2. **[bar-odoo]**: Descripción breve del proyecto. *(Tecnologías: Python)*.
-3. **[book]**: Descripción breve del proyecto. *(Tecnologías: Jupyter Notebook)*.
+1. **[angular-online-supermarket]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, TypeScript, Abgular)*.
+2. **[OnlineStoreProject]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, JavaScript)*.
+3. **[bar-odoo]**: Descripción breve del proyecto. *(Tecnologías: Python)*.
+4. **[book]**: Descripción breve del proyecto. *(Tecnologías: Jupyter Notebook)*.
 
 > Puedes ver todos mis proyectos en [mis repositorios](https://github.com/bena-sudo?tab=repositories).
 
@@ -30,5 +31,5 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
 ### 📫 Conecta conmigo
 
-- **Email**: [tu.email@example.com](mailto:tu.email@example.com)
+- **Email**: [joan.benavent.dev@gmail.com](mailto:joan.benavent.dev@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
