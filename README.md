@@ -10,13 +10,23 @@ Mi objetivo profesional es integrarme en un equipo de desarrollo donde pueda con
 
 ---
 
-## 🌟 Tecnologías y herramientas que utilizo
+## 🌟 Habilidades Técnicas
 
-- **Lenguajes**: Java, Python, JavaScript, SQL, HTML5, CSS3  
-- **Frameworks y bibliotecas**: Spring Boot, Node.js, Bootstrap, Angular  
-- **Bases de datos**: MySQL, SQLite, MongoDB  
-- **Control de versiones**: Git y GitHub  
-- **Entornos de desarrollo**: Visual Studio Code, Eclipse IDE  
+### Desarrollo Backend
+- **Lenguajes:** Java, Python, JavaScript  
+- **Frameworks:** Spring Boot, Node.js  
+- **Bases de datos:** MySQL, SQLite, MongoDB  
+- **API y arquitectura:** REST, MVC  
+
+### Desarrollo Frontend
+- **Lenguajes y herramientas:** HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks y bibliotecas:** Angular, Bootstrap  
+- **Diseño:** Responsive design, Material Design  
+
+### Herramientas y prácticas
+- **Control de versiones:** Git, GitHub  
+- **Entornos de desarrollo:** Visual Studio Code, Eclipse IDE  
+- **Metodologías:** Desarrollo ágil (Scrum), buenas prácticas de codificación  
 
 ---
 
