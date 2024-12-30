@@ -28,8 +28,3 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
 - **Grado Medio en Sistemas Microinformáticos y Redes (CFSN)**.
-
-### 📫 Conecta conmigo
-
-- **Email**: [joan.benavent.dev@gmail.com](mailto:joan.benavent.dev@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/joan-benavent-098198344/](https://www.linkedin.com/in/joan-benavent-098198344/)
