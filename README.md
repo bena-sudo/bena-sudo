@@ -32,4 +32,4 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 ### 📫 Conecta conmigo
 
 - **Email**: [joan.benavent.dev@gmail.com](mailto:joan.benavent.dev@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **LinkedIn**: [https://www.linkedin.com/in/joan-benavent-098198344/](https://www.linkedin.com/in/joan-benavent-098198344/)
