@@ -34,10 +34,11 @@ Mi objetivo profesional es integrarme en un equipo de desarrollo donde pueda con
 
 Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
-1. **[angular-online-supermarket]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.  
-2. **[OnlineStoreProject]**: Descripción breve del proyecto. *(Tecnologías: HTML, CSS, JavaScript)*.  
-3. **[bar-odoo]**: Descripción breve del proyecto. *(Tecnologías: Python)*.  
-4. **[book]**: Descripción breve del proyecto. *(Tecnologías: Jupyter Notebook)*.  
+1. **[angular-online-supermarket]**: Aplicación web de supermercado online con gestión de inventarios, autenticación de usuarios, y diseño responsivo. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.
+2. **[api_rest_bd_ciclismo]**: API REST para gestionar datos de ciclistas, equipos y etapas de ciclismo.. *(Tecnologías: Spring Boot, PostgreSQL, Docker)*.
+3. **[vanilla-online-supermarket]**: Aplicación web de supermercado online con funcionalida CRUD para gestionar productos. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.  
+4. **[angular-recipe-app]**: Aplicación web para gestión de recetas que permite realizar operaciones CRUD. *(Tecnologías: HTML, CSS, JavaScript)*.   
+5. **[book]**: Descripción breve del proyecto. *(Tecnologías: Jupyter Notebook)*.  
 
 > Puedes ver todos mis proyectos en [mis repositorios](https://github.com/bena-sudo?tab=repositories).  
 
@@ -45,6 +46,6 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
 ## 🎓 Formación
 
-- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 - **Grado Medio en Sistemas Microinformáticos y Redes (CFSN)**.  
