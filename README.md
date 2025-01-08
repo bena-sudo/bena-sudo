@@ -37,7 +37,7 @@ Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 2. **[api_rest_bd_ciclismo]**: API REST para gestionar datos de ciclistas, equipos y etapas de ciclismo.. *(Tecnologías: Spring Boot, PostgreSQL, Docker)*.
 3. **[vanilla-online-supermarket]**: Aplicación web de supermercado online con funcionalida CRUD para gestionar productos. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.  
 4. **[angular-recipe-app]**: Aplicación web para gestión de recetas que permite realizar operaciones CRUD. *(Tecnologías: HTML, CSS, JavaScript)*.   
-5. **[book]**: Este proyecto contiene apuntes y ejemplos prácticos de JavaScript y Angular, para documentar y organizar recursos de aprendizaje de manera efectiva. *(Tecnologías: Jupyter Notebook)*.  
+5. **[frontend-book]**: Este proyecto contiene apuntes y ejemplos prácticos de JavaScript y Angular, para documentar y organizar recursos de aprendizaje de manera efectiva. *(Tecnologías: Jupyter Notebook)*.  
 
 > Puedes ver todos mis proyectos en [mis repositorios](https://github.com/bena-sudo?tab=repositories).  
 
