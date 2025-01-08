@@ -26,7 +26,6 @@ Mi objetivo profesional es integrarme en un equipo de desarrollo donde pueda con
 ### Herramientas y prácticas
 - **Control de versiones:** Git, GitHub  
 - **Entornos de desarrollo:** Visual Studio Code, Eclipse IDE  
-- **Metodologías:** Desarrollo ágil (Scrum), buenas prácticas de codificación  
 
 ---
 
