@@ -14,7 +14,7 @@ Mi objetivo profesional es integrarme en un equipo de desarrollo donde pueda con
 
 ### Desarrollo Backend
 - **Lenguajes:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Node.js  
+- **Frameworks:** Spring Boot
 - **Bases de datos:** MySQL, SQLite, MongoDB  
 - **API y arquitectura:** REST, MVC  
 
