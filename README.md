@@ -33,11 +33,10 @@ Mi objetivo profesional es integrarme en un equipo de desarrollo donde pueda con
 
 Algunos de los proyectos que he desarrollado o en los que estoy trabajando:
 
-1. **[angular-online-supermarket]**: Aplicación web de supermercado online con gestión de inventarios, autenticación de usuarios, y diseño responsivo. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.
-2. **[api_rest_bd_ciclismo]**: API REST para gestionar datos de ciclistas, equipos y etapas de ciclismo.. *(Tecnologías: Spring Boot, PostgreSQL, Docker)*.
-3. **[vanilla-online-supermarket]**: Aplicación web de supermercado online con funcionalida CRUD para gestionar productos. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.  
-4. **[angular-recipe-app]**: Aplicación web para gestión de recetas que permite realizar operaciones CRUD. *(Tecnologías: HTML, CSS, JavaScript)*.   
-5. **[frontend-book]**: Este proyecto contiene apuntes y ejemplos prácticos de JavaScript y Angular, para documentar y organizar recursos de aprendizaje de manera efectiva. *(Tecnologías: Jupyter Notebook)*.  
+1. **[angular-recipe-app]**: Aplicación web para gestión de recetas que permite realizar operaciones CRUD, autenticación de usuarios, y diseño responsivo. *(Tecnologías: HTML, CSS, JavaScript)*.   
+2. **[springboot-football-crud]**: API REST para gestionar datos de jugadores, equipos y partidas de futbolistas... *(Tecnologías: Spring Boot, PostgreSQL, Docker)*.
+3. **[springboot-institute-crud]**: API REST para gestionar ficheros de alumnos, profesores y cursos... *(Tecnologías: Spring Boot, PostgreSQL, Docker)*. 
+4. **[angular-online-supermarket]**: Aplicación web de supermercado online con gestión de inventarios, autenticación de usuarios, y diseño responsivo. *(Tecnologías: HTML, CSS, TypeScript, Angular)*.
 
 > Puedes ver todos mis proyectos en [mis repositorios](https://github.com/bena-sudo?tab=repositories).  
 
